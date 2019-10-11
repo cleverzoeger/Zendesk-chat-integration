@@ -7,4 +7,4 @@ The extension lets enhance customers shopping experience by easily adding a live
 * Enable/ Disable the module 
 * Allows integrating Zendesk chat into Magento store
 * Available for use on different store views
-* Compatible with CE: 2.0, 2.1, 2.2
+* Compatible with CE: 2.0, 2.1, 2.2, 2.3
